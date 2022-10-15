@@ -1,3 +1,3 @@
 # WELCOME TO BINARY
 
-> Nature is our guidance.
+> **Nature is our guidance.**
