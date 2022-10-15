@@ -2,4 +2,4 @@
 
 > Nature is our guidance.
 
-![BINARY](BINARY.jpg)
+![BINARY](../blob/main/BINARY.jpg)
