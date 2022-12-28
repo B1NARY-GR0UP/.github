@@ -2,4 +2,4 @@
 
 > **NATURE IS OUR GUIDANCE**
 
-![binary](../image/BINARY.jpg)
+![binary](https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg)
