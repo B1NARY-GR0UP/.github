@@ -15,6 +15,7 @@
 
 ## Basic Middleware Service
 
+- **[NWA](https://github.com/B1NARY-GR0UP/nwa)** - A More Powerful License Header Management Tool
 - **[PHOS](https://github.com/B1NARY-GR0UP/phos)** - Channel with Internal Handlers and Diversified Options
 - **[VIOLIN](https://github.com/B1NARY-GR0UP/violin)** - Worker/Connection Pool with Rich APIs and Configuration Options
 
