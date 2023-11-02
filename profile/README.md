@@ -19,9 +19,12 @@
 - **[PHOS](https://github.com/B1NARY-GR0UP/phos)** - Channel with Internal Handlers and Diversified Options
 - **[VIOLIN](https://github.com/B1NARY-GR0UP/violin)** - Worker/Connection Pool with Rich APIs and Configuration Options
 
+## Make Your Life Simpler
+
+- **[GHS](https://github.com/B1NARY-GR0UP/ghs)** - A Chrome Extension that Allows you to Search GitHub Repositories from Selected Text
+
 ## Other
 
-- **[GHS](https://github.com/B1NARY-GR0UP/ghs)** - A chrome extension that allows you to search GitHub repositories from selected text
 - **[INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor)** - Simple Logger
 - **[STARS](https://github.com/B1NARY-GR0UP/stars)** - Component Library for Go
 - **[FLEET](https://github.com/B1NARY-GR0UP/fleet)** - Toolkit
