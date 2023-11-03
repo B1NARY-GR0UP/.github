@@ -21,6 +21,7 @@
 
 ## Make Your Life Simpler
 
+- **[TABSNAPSHOT](https://github.com/B1NARY-GR0UP/tabsnapshot)** - A Chrome Extension that Allows you to Create a Snapshot for the Current Open Tabs
 - **[GHS](https://github.com/B1NARY-GR0UP/ghs)** - A Chrome Extension that Allows you to Search GitHub Repositories from Selected Text
 
 ## Other
