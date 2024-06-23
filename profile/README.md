@@ -12,13 +12,13 @@
 
 - **[OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis)** - Open Analysis Service
 - **[PIANO](https://github.com/B1NARY-GR0UP/piano)** - Simple and Lightweight HTTP Framework
-- **[DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo)** - Distributed Cache with Out-Of-The-Box, High-Scalability, Modular-Design Features
+- **[DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo)** - Distributed Cache 
 
 ## Basic Middleware Service
 
 - **[NWA](https://github.com/B1NARY-GR0UP/nwa)** - A More Powerful License Header Management Tool
-- **[PHOS](https://github.com/B1NARY-GR0UP/phos)** - Channel with Internal Handlers and Diversified Options
 - **[VIOLIN](https://github.com/B1NARY-GR0UP/violin)** - Worker/Connection Pool with Rich APIs and Configuration Options
+- **[PHOS](https://github.com/B1NARY-GR0UP/phos)** - Channel with Internal Handlers and Diversified Options
 
 ## Make Your Life Simpler
 
