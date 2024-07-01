@@ -10,7 +10,7 @@
 
 ## BINARY WEB ECOLOGY
 
-- **[OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis)** - Open Analysis Service
+- **[OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis)** - A Tool for Visualizing and Analyzing Data from the GitHub Open-Source Community
 - **[PIANO](https://github.com/B1NARY-GR0UP/piano)** - Simple and Lightweight HTTP Framework
 - **[DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo)** - Distributed Cache 
 
