@@ -2,7 +2,7 @@
 ————————— WELCOME TO BINARY —————————
 </h1>
 
-![BINARY](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
+![BINARY](https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg)
 
 ## Record
 
@@ -31,3 +31,5 @@
 - **[INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor)** - Simple Logger
 - **[STARS](https://github.com/B1NARY-GR0UP/stars)** - Component Library for Go
 - **[FLEET](https://github.com/B1NARY-GR0UP/fleet)** - Toolkit
+
+![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
