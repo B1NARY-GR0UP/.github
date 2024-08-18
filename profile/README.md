@@ -2,7 +2,7 @@
 ————————— WELCOME TO BINARY —————————
 </h1>
 
-![BINARY](https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg)
+![BINARY](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
 
 ## Record
 
