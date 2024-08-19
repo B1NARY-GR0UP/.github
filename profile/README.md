@@ -1,6 +1,8 @@
-<h1 align="center">
-————————— WELCOME TO BINARY —————————
-</h1>
+[//]: # (<h1 align="center">)
+
+[//]: # (————————— WELCOME TO BINARY —————————)
+
+[//]: # (</h1>)
 
 ![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
 
