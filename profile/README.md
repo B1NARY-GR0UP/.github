@@ -5,7 +5,7 @@
 - **[TIMELINE](https://github.com/B1NARY-GR0UP/TIMELINE)** - From Beginning to End
 - **[LOGO](https://github.com/B1NARY-GR0UP/logo)** - BINARY Logo
 
-## Project: FOIVER
+## PROJECT: FOIVER
 
 - **[RAFT](https://github.com/B1NARY-GR0UP/raft)** - Raft Consensus Algorithm Implementation used by FOIVER System
 
