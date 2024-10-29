@@ -5,9 +5,12 @@
 - **[TIMELINE](https://github.com/B1NARY-GR0UP/TIMELINE)** - From Beginning to End
 - **[LOGO](https://github.com/B1NARY-GR0UP/logo)** - BINARY Logo
 
+## Project: FOIVER
+
+- **[RAFT](https://github.com/B1NARY-GR0UP/raft)** - Raft Consensus Algorithm Implementation used by FOIVER System
+
 ## BINARY WEB ECOLOGY
 
-- **[RAFT-FOIVER](https://github.com/B1NARY-GR0UP/raft)** - Raft Consensus Algorithm Implementation used by FOIVER System
 - **[OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis)** - A Tool for Visualizing and Analyzing Data from the GitHub Open-Source Community
 - **[PIANO](https://github.com/B1NARY-GR0UP/piano)** - Simple and Lightweight HTTP Framework
 - **[DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo)** - Distributed Cache 
