@@ -8,6 +8,7 @@
 ## PROJECT: FOIVER
 
 - **[RAFT](https://github.com/B1NARY-GR0UP/raft)** - Raft Consensus Algorithm Implementation used by FOIVER System
+- **[ORIGINIUM](https://github.com/B1NARY-GR0UP/originium)** - LSM based Storage Engine used by FOIVER System
 
 ## BINARY WEB ECOLOGY
 
