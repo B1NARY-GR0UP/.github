@@ -27,4 +27,4 @@ jobs:
         run: go test -v ./...
 
       - name: License Header Check
-        run: nwa check -c "BINARY Members" -l apache "**/*.go"
+        run: nwa config -c check
